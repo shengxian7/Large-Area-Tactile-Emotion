@@ -1,0 +1,1634 @@
+{
+  "status": "PASS",
+  "trial_count": 135,
+  "excluded_trials": [
+    {
+      "trial": "S01_joy_V001_R01",
+      "reason": "explicitly excluded by command",
+      "source_complete": true,
+      "source_review_status": null
+    }
+  ],
+  "trials": [
+    {
+      "trial": "S01_D01_admiration_R001_A002",
+      "retained_raw_messages": 1582,
+      "removed_visual_messages": 471,
+      "retained_feature_records": {
+        "tactile": 32,
+        "audio": 32
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "2ecce5be5481f5ff68c159136746f81f54f43ca28dfc840fac7d25a92f7c0343",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_admiration_R002_A001",
+      "retained_raw_messages": 1584,
+      "removed_visual_messages": 471,
+      "retained_feature_records": {
+        "audio": 33,
+        "tactile": 32
+      },
+      "removed_visual_features": 32,
+      "retained_payload_sha256": "78e179643c1718507402085ae854a282fd18601b034ac82fb58cd2b73af4675d",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_admiration_R003_A001",
+      "retained_raw_messages": 1584,
+      "removed_visual_messages": 476,
+      "retained_feature_records": {
+        "tactile": 32,
+        "audio": 31
+      },
+      "removed_visual_features": 32,
+      "retained_payload_sha256": "dde421edfd92199acf51205b22bcc293a982e53f41aeadf93e52402128e3f2d6",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_admiration_R004_A001",
+      "retained_raw_messages": 1575,
+      "removed_visual_messages": 472,
+      "retained_feature_records": {
+        "tactile": 32,
+        "audio": 32
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "0e24a3c6601ebdab41a24aefe26f9e611efbc0a0271bf9245e9931782f3abc71",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_admiration_R005_A001",
+      "retained_raw_messages": 1582,
+      "removed_visual_messages": 471,
+      "retained_feature_records": {
+        "tactile": 32,
+        "audio": 31
+      },
+      "removed_visual_features": 32,
+      "retained_payload_sha256": "51ff5d229a9f2252953659de72f8ad77d7d51d62fb69020525624f0e3e3c7052",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_adoration_R001_A002",
+      "retained_raw_messages": 1585,
+      "removed_visual_messages": 448,
+      "retained_feature_records": {
+        "tactile": 32,
+        "audio": 31
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "6f7db34be2bc628873ed6a6f315837a4d21dad639be271997cdcf1df4197acb9",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_adoration_R002_A001",
+      "retained_raw_messages": 1585,
+      "removed_visual_messages": 455,
+      "retained_feature_records": {
+        "tactile": 32,
+        "audio": 31
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "0d6af952ea4503aab5083228e9d7689b966c0966251e1da6e387bad2fe992462",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_adoration_R003_A001",
+      "retained_raw_messages": 1556,
+      "removed_visual_messages": 443,
+      "retained_feature_records": {
+        "tactile": 32,
+        "audio": 32
+      },
+      "removed_visual_features": 32,
+      "retained_payload_sha256": "44138e990aededa0cbf04c48d3b67714e88ef8ab97d4bf1d010672f743e64250",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_adoration_R004_A001",
+      "retained_raw_messages": 1581,
+      "removed_visual_messages": 466,
+      "retained_feature_records": {
+        "audio": 32,
+        "tactile": 32
+      },
+      "removed_visual_features": 32,
+      "retained_payload_sha256": "ad1840aa300cf042b5e340c98c87060bd7da847bd559ec07f53db3d1f615339a",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_adoration_R005_A001",
+      "retained_raw_messages": 1587,
+      "removed_visual_messages": 464,
+      "retained_feature_records": {
+        "tactile": 32,
+        "audio": 31
+      },
+      "removed_visual_features": 32,
+      "retained_payload_sha256": "6750a0528bccd7ac787ff16f395f4e115a2848ee11d72a5b366f0a3c7fb53a4d",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_aesthetic_appreciation_R001_A002",
+      "retained_raw_messages": 1583,
+      "removed_visual_messages": 473,
+      "retained_feature_records": {
+        "audio": 31,
+        "tactile": 32
+      },
+      "removed_visual_features": 32,
+      "retained_payload_sha256": "35b853f922637ede6d00b94420f9cfa1ea9c91811d706f5abd77ead7e0ebfb7e",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_aesthetic_appreciation_R002_A001",
+      "retained_raw_messages": 1586,
+      "removed_visual_messages": 473,
+      "retained_feature_records": {
+        "tactile": 32,
+        "audio": 31
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "e2ff305e22c9fac4d89d892b7222d1e21c7dbb7cd4e0a9d739c9d86c954e7f8f",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_aesthetic_appreciation_R003_A001",
+      "retained_raw_messages": 1588,
+      "removed_visual_messages": 473,
+      "retained_feature_records": {
+        "audio": 32,
+        "tactile": 32
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "3573af56167c2bd64d51bba64e1c4a32c80268b922b0da4034522eeeb2e4d0a6",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_aesthetic_appreciation_R004_A001",
+      "retained_raw_messages": 1583,
+      "removed_visual_messages": 474,
+      "retained_feature_records": {
+        "tactile": 32,
+        "audio": 31
+      },
+      "removed_visual_features": 32,
+      "retained_payload_sha256": "5a961d8d741b8ed901207064ea51baf5f37f76ad87fb1d669509bc6b8308810a",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_aesthetic_appreciation_R005_A001",
+      "retained_raw_messages": 1581,
+      "removed_visual_messages": 471,
+      "retained_feature_records": {
+        "tactile": 32,
+        "audio": 32
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "d5029e6ac08078587a302d0b6dce45c40ee52a9a07a7a75147881e70be4a9c26",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_amusement_R001_A002",
+      "retained_raw_messages": 1178,
+      "removed_visual_messages": 353,
+      "retained_feature_records": {
+        "audio": 24,
+        "tactile": 24
+      },
+      "removed_visual_features": 24,
+      "retained_payload_sha256": "48c98a6c2721a16c5e48a9e1c1e4fd36e2c818a7948c221600770dc4288aa706",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_amusement_R002_A001",
+      "retained_raw_messages": 1190,
+      "removed_visual_messages": 354,
+      "retained_feature_records": {
+        "audio": 25,
+        "tactile": 24
+      },
+      "removed_visual_features": 23,
+      "retained_payload_sha256": "3d279dea0c26ffcd06499f67a04bb7ebcb1d8dbb59ab540df893fb545ae259cb",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_amusement_R003_A001",
+      "retained_raw_messages": 1184,
+      "removed_visual_messages": 353,
+      "retained_feature_records": {
+        "tactile": 24,
+        "audio": 25
+      },
+      "removed_visual_features": 24,
+      "retained_payload_sha256": "e912f473c1690fd1fd7da4d6ef22d6218da492d82d7a0981d2a2631e69b13085",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_amusement_R004_A001",
+      "retained_raw_messages": 1149,
+      "removed_visual_messages": 344,
+      "retained_feature_records": {
+        "tactile": 24,
+        "audio": 23
+      },
+      "removed_visual_features": 23,
+      "retained_payload_sha256": "31d3bb832f54f15052b4d6467599954778d9270a9b10c63071ba63989fd4b80a",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_amusement_R005_A001",
+      "retained_raw_messages": 1182,
+      "removed_visual_messages": 356,
+      "retained_feature_records": {
+        "tactile": 24,
+        "audio": 24
+      },
+      "removed_visual_features": 23,
+      "retained_payload_sha256": "1fa3a5821420b479d8e918b1da38645d1ff3c250cd58d44a0e1d8ae2ee984610",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_anger_R001_A003",
+      "retained_raw_messages": 1185,
+      "removed_visual_messages": 352,
+      "retained_feature_records": {
+        "tactile": 24,
+        "audio": 24
+      },
+      "removed_visual_features": 24,
+      "retained_payload_sha256": "1b49636fd71800c45101faa45c8d9eca9719d605828d69aab6cb0d401432d37c",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_anger_R002_A001",
+      "retained_raw_messages": 1169,
+      "removed_visual_messages": 344,
+      "retained_feature_records": {
+        "tactile": 25,
+        "audio": 25
+      },
+      "removed_visual_features": 24,
+      "retained_payload_sha256": "58d8278f2090cec04670d93def283cdf0a19e749ff2d1106b056b63cf9afc9cd",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_anger_R003_A001",
+      "retained_raw_messages": 1188,
+      "removed_visual_messages": 353,
+      "retained_feature_records": {
+        "tactile": 24,
+        "audio": 24
+      },
+      "removed_visual_features": 23,
+      "retained_payload_sha256": "a726d5c34b9132aab3d49fd361b2348c2b8898af0bf05aecf4f82233d614c753",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_anger_R004_A001",
+      "retained_raw_messages": 1185,
+      "removed_visual_messages": 354,
+      "retained_feature_records": {
+        "tactile": 24,
+        "audio": 24
+      },
+      "removed_visual_features": 23,
+      "retained_payload_sha256": "353b3084a92c9d7e22543f65334930ac27104139152756adc31322ae8d16c994",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_anger_R005_A001",
+      "retained_raw_messages": 1188,
+      "removed_visual_messages": 356,
+      "retained_feature_records": {
+        "audio": 24,
+        "tactile": 24
+      },
+      "removed_visual_features": 24,
+      "retained_payload_sha256": "2c4481a4cbb9140c9d504fb00f045588c9a353d9538820195307ec2d7bcfddad",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_anxiety_R001_A002",
+      "retained_raw_messages": 1585,
+      "removed_visual_messages": 465,
+      "retained_feature_records": {
+        "audio": 32,
+        "tactile": 32
+      },
+      "removed_visual_features": 32,
+      "retained_payload_sha256": "9335925b747581cb732f57c3747591b68061beef3872babad94de43d48c2159b",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_anxiety_R002_A001",
+      "retained_raw_messages": 1552,
+      "removed_visual_messages": 460,
+      "retained_feature_records": {
+        "tactile": 32,
+        "audio": 31
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "e9d29d1f57a690b6be38fec7bdd3368f4b5724c237dd7fe15d9d7685860038b3",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_anxiety_R003_A001",
+      "retained_raw_messages": 1587,
+      "removed_visual_messages": 469,
+      "retained_feature_records": {
+        "tactile": 33,
+        "audio": 32
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "3e2d07ffa67e7ee676812e1779dd71fe998ce950539a131145eb4de630d395d3",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_anxiety_R004_A001",
+      "retained_raw_messages": 1585,
+      "removed_visual_messages": 474,
+      "retained_feature_records": {
+        "tactile": 32,
+        "audio": 33
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "f43835129afbbe5d7840749d50fd1a7ef9ed742e1f8de0dafdd51c65a23a6a1b",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_anxiety_R005_A001",
+      "retained_raw_messages": 1580,
+      "removed_visual_messages": 473,
+      "retained_feature_records": {
+        "tactile": 32,
+        "audio": 31
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "67edb7fd5b10d2195e4896ca446c9b613dfeb75f464514425815c17a59417fcf",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_awe_R001_A001",
+      "retained_raw_messages": 1577,
+      "removed_visual_messages": 468,
+      "retained_feature_records": {
+        "tactile": 32,
+        "audio": 31
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "d75c8bd9134281bc5832ff3e0e253fde46cd97c6033e8eb1c128d10f4f206f1e",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_awe_R002_A001",
+      "retained_raw_messages": 1583,
+      "removed_visual_messages": 472,
+      "retained_feature_records": {
+        "audio": 32,
+        "tactile": 32
+      },
+      "removed_visual_features": 32,
+      "retained_payload_sha256": "fff9e6050ab96a4e01dea0c115ab0f70888dd378079c861671f53fab375534e8",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_awe_R003_A001",
+      "retained_raw_messages": 1579,
+      "removed_visual_messages": 469,
+      "retained_feature_records": {
+        "audio": 32,
+        "tactile": 32
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "8d4d5378863b794d4b804774eada7896fc2fa5338c94aea1b800f69586d8e1fc",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_awe_R004_A001",
+      "retained_raw_messages": 1586,
+      "removed_visual_messages": 472,
+      "retained_feature_records": {
+        "tactile": 33,
+        "audio": 31
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "7ee3eea383653a398e94999509ada11e7545ebd000494bc9a8fa063bc1d801b3",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_awe_R005_A001",
+      "retained_raw_messages": 1584,
+      "removed_visual_messages": 470,
+      "retained_feature_records": {
+        "tactile": 33,
+        "audio": 33
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "b5ed1637145487cd87ed2a5054abeb24a5004c969a799e3ed8edd9ff032e930c",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_awkwardness_R001_A002",
+      "retained_raw_messages": 1583,
+      "removed_visual_messages": 473,
+      "retained_feature_records": {
+        "tactile": 33,
+        "audio": 32
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "c790a4d7ebe6d5e651af33bc79a090fe7203ce8056323cbb786166f2b217166a",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_awkwardness_R002_A001",
+      "retained_raw_messages": 1552,
+      "removed_visual_messages": 467,
+      "retained_feature_records": {
+        "audio": 31,
+        "tactile": 32
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "ee0853cc610052903808388465e9ab4f4424bfaf5847f8eea861b686d167902e",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_awkwardness_R003_A001",
+      "retained_raw_messages": 1573,
+      "removed_visual_messages": 475,
+      "retained_feature_records": {
+        "audio": 31,
+        "tactile": 32
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "6577b56d643c21c98ff0dee06985135e62a12d93639ab7a586edd81baee0c189",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_awkwardness_R004_A001",
+      "retained_raw_messages": 1590,
+      "removed_visual_messages": 474,
+      "retained_feature_records": {
+        "audio": 32,
+        "tactile": 32
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "5e76f3d6a52fe53a651fa9ae4f395de20bd8d7873d0a313638f4daa75fe8e75d",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_awkwardness_R005_A001",
+      "retained_raw_messages": 1592,
+      "removed_visual_messages": 477,
+      "retained_feature_records": {
+        "tactile": 32,
+        "audio": 32
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "c8abd8ea4b1d51bb52ee2b90ffcd258074bee348c64fe1bb7e3f2b097df72ec6",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_boredom_R001_A001",
+      "retained_raw_messages": 1178,
+      "removed_visual_messages": 353,
+      "retained_feature_records": {
+        "tactile": 24,
+        "audio": 24
+      },
+      "removed_visual_features": 24,
+      "retained_payload_sha256": "84f18a5f73ec132ec1a82a37a7ea417ed56998f3583eed41414948ad8bffeaae",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_boredom_R002_A001",
+      "retained_raw_messages": 1191,
+      "removed_visual_messages": 353,
+      "retained_feature_records": {
+        "tactile": 24,
+        "audio": 24
+      },
+      "removed_visual_features": 23,
+      "retained_payload_sha256": "1f39564219ba8db7950cff5c2c2d00e0eac9c6d604403ea7176cede46cd5006c",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_boredom_R003_A001",
+      "retained_raw_messages": 1182,
+      "removed_visual_messages": 353,
+      "retained_feature_records": {
+        "audio": 24,
+        "tactile": 24
+      },
+      "removed_visual_features": 23,
+      "retained_payload_sha256": "af0550a2b769c98e2061d3ba8602a779ffa8bc0d979a1489da698bdae7fdb9a4",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_boredom_R004_A001",
+      "retained_raw_messages": 1182,
+      "removed_visual_messages": 353,
+      "retained_feature_records": {
+        "tactile": 25,
+        "audio": 24
+      },
+      "removed_visual_features": 23,
+      "retained_payload_sha256": "2b1d75b1a3e602cd7711ee8ebb9c69227774e4260fdb3056c56d3d4d9a0ab85d",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_boredom_R005_A001",
+      "retained_raw_messages": 1191,
+      "removed_visual_messages": 355,
+      "retained_feature_records": {
+        "audio": 24,
+        "tactile": 24
+      },
+      "removed_visual_features": 24,
+      "retained_payload_sha256": "3f29b386314d9e6443a3387651d454d3dadb43d35950fbd36335b8056c56ee80",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_calmness_R001_A001",
+      "retained_raw_messages": 1179,
+      "removed_visual_messages": 351,
+      "retained_feature_records": {
+        "tactile": 25,
+        "audio": 23
+      },
+      "removed_visual_features": 24,
+      "retained_payload_sha256": "4a8943ff7058123dc72cfeb9854f9fd5416624a55cf405cd8b5f3738fd0f283e",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_calmness_R002_A001",
+      "retained_raw_messages": 1184,
+      "removed_visual_messages": 352,
+      "retained_feature_records": {
+        "audio": 25,
+        "tactile": 24
+      },
+      "removed_visual_features": 24,
+      "retained_payload_sha256": "9d495a29babd589bcc0089d181af28f3c9bd8fa13c1e65241bab79b8b55bad94",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_calmness_R003_A001",
+      "retained_raw_messages": 1183,
+      "removed_visual_messages": 352,
+      "retained_feature_records": {
+        "tactile": 24,
+        "audio": 23
+      },
+      "removed_visual_features": 24,
+      "retained_payload_sha256": "575337e2fd138a42a04916ba920ad39c54facf32bcf2830ce5d3d937f54981f3",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_calmness_R004_A001",
+      "retained_raw_messages": 1191,
+      "removed_visual_messages": 355,
+      "retained_feature_records": {
+        "audio": 25,
+        "tactile": 24
+      },
+      "removed_visual_features": 24,
+      "retained_payload_sha256": "0104c25fa6b269d4e124169f03b2887df78ecf62cfa6b984a6ea32fa2f88baca",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_calmness_R005_A001",
+      "retained_raw_messages": 1176,
+      "removed_visual_messages": 341,
+      "retained_feature_records": {
+        "audio": 24,
+        "tactile": 24
+      },
+      "removed_visual_features": 23,
+      "retained_payload_sha256": "36924d9103c62227f14ef9d340f3b9d1cd26883532cda529a0b97e332431f39b",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_confusion_R001_A001",
+      "retained_raw_messages": 1184,
+      "removed_visual_messages": 355,
+      "retained_feature_records": {
+        "audio": 24,
+        "tactile": 24
+      },
+      "removed_visual_features": 23,
+      "retained_payload_sha256": "430afda3621dcca69b30c1c8db8ca5c4aaf68cc360b5ba40e6f148053bd06db9",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_confusion_R002_A001",
+      "retained_raw_messages": 1180,
+      "removed_visual_messages": 356,
+      "retained_feature_records": {
+        "audio": 25,
+        "tactile": 24
+      },
+      "removed_visual_features": 23,
+      "retained_payload_sha256": "d9afe3015675139a6dd1479050288c33928c6b20eac671e20459d2bff290e812",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_confusion_R003_A001",
+      "retained_raw_messages": 1184,
+      "removed_visual_messages": 352,
+      "retained_feature_records": {
+        "tactile": 24,
+        "audio": 23
+      },
+      "removed_visual_features": 24,
+      "retained_payload_sha256": "c65b56154eb327e55323be13fec9debff84381733de01f8f8541efdce4421f6a",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_confusion_R004_A001",
+      "retained_raw_messages": 1178,
+      "removed_visual_messages": 356,
+      "retained_feature_records": {
+        "audio": 23,
+        "tactile": 24
+      },
+      "removed_visual_features": 23,
+      "retained_payload_sha256": "0149defa58ddb3adb015ba0279aca468a67ba15c131150b2d6378041425e771c",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_confusion_R005_A001",
+      "retained_raw_messages": 1165,
+      "removed_visual_messages": 349,
+      "retained_feature_records": {
+        "tactile": 24,
+        "audio": 23
+      },
+      "removed_visual_features": 24,
+      "retained_payload_sha256": "47b70faf79e3c1832b357f3e06230f9860fb0dd572a160e89d5120ca2bb957c8",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_craving_R001_A001",
+      "retained_raw_messages": 1571,
+      "removed_visual_messages": 468,
+      "retained_feature_records": {
+        "audio": 32,
+        "tactile": 32
+      },
+      "removed_visual_features": 32,
+      "retained_payload_sha256": "86e6a465e4925c798f27aea98e75d86ab6342601b139d8252990065d711ed5cd",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_craving_R002_A001",
+      "retained_raw_messages": 1583,
+      "removed_visual_messages": 475,
+      "retained_feature_records": {
+        "audio": 32,
+        "tactile": 32
+      },
+      "removed_visual_features": 32,
+      "retained_payload_sha256": "f50f70b983984200b11b444baa3acf0a42a843aff23edab5217a3dcc1011d900",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_craving_R003_A002",
+      "retained_raw_messages": 1582,
+      "removed_visual_messages": 472,
+      "retained_feature_records": {
+        "tactile": 32,
+        "audio": 32
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "37159f0bfa4242b2a6ecb2344ebf088b79121e77b5aee3ed27fb9a6f8d609fbd",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_craving_R004_A001",
+      "retained_raw_messages": 1554,
+      "removed_visual_messages": 466,
+      "retained_feature_records": {
+        "tactile": 32,
+        "audio": 32
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "819a00993e62431a196abe13732acab7e776656d8e4ac7915e073e0d8c6c5e5a",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_craving_R005_A001",
+      "retained_raw_messages": 1562,
+      "removed_visual_messages": 469,
+      "retained_feature_records": {
+        "tactile": 33,
+        "audio": 31
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "5d47e4a96639993de4cab42e213d49876e1bda8dfcc39a57f83d04965ac48cb0",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_disgust_R001_A002",
+      "retained_raw_messages": 1185,
+      "removed_visual_messages": 353,
+      "retained_feature_records": {
+        "audio": 23,
+        "tactile": 24
+      },
+      "removed_visual_features": 23,
+      "retained_payload_sha256": "3e47ec8ea8b4f41a2029348258d969d92199da4e5a0ccc86ccdcc9325b6e92d7",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_disgust_R002_A001",
+      "retained_raw_messages": 1183,
+      "removed_visual_messages": 353,
+      "retained_feature_records": {
+        "audio": 24,
+        "tactile": 24
+      },
+      "removed_visual_features": 23,
+      "retained_payload_sha256": "b9ae3c69facf7573b97e8cb158338547eaf56e5799a1156bd4f8573348526212",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_disgust_R003_A001",
+      "retained_raw_messages": 1183,
+      "removed_visual_messages": 354,
+      "retained_feature_records": {
+        "audio": 23,
+        "tactile": 23
+      },
+      "removed_visual_features": 23,
+      "retained_payload_sha256": "57a92b6a3d2f2bb0965a3687044d3d423a53dab1e1af9b46724f8d9354dcf99d",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_disgust_R004_A001",
+      "retained_raw_messages": 1148,
+      "removed_visual_messages": 345,
+      "retained_feature_records": {
+        "tactile": 25,
+        "audio": 23
+      },
+      "removed_visual_features": 23,
+      "retained_payload_sha256": "65b8a67897ea76a537a9f81461ec174945e5d67d8bf3c647feb4fe6e4061efcd",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_disgust_R005_A001",
+      "retained_raw_messages": 1184,
+      "removed_visual_messages": 352,
+      "retained_feature_records": {
+        "audio": 24,
+        "tactile": 24
+      },
+      "removed_visual_features": 24,
+      "retained_payload_sha256": "ec735b73d426c14e230b1385c915d353674ce2cdb8b5609a554d539fe55f5644",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_empathic_pain_R001_A001",
+      "retained_raw_messages": 1583,
+      "removed_visual_messages": 454,
+      "retained_feature_records": {
+        "audio": 33,
+        "tactile": 32
+      },
+      "removed_visual_features": 32,
+      "retained_payload_sha256": "5caee4c2b2065e179e357e1f62d517eb30ac34a92baeba57bb9f5b28b6a0f2bb",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_empathic_pain_R002_A001",
+      "retained_raw_messages": 1585,
+      "removed_visual_messages": 451,
+      "retained_feature_records": {
+        "audio": 32,
+        "tactile": 32
+      },
+      "removed_visual_features": 32,
+      "retained_payload_sha256": "8d05ccb028a1e197db46d0d672905735952a35acb085425db877b4b1b9787fb4",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_empathic_pain_R003_A001",
+      "retained_raw_messages": 1585,
+      "removed_visual_messages": 456,
+      "retained_feature_records": {
+        "audio": 33,
+        "tactile": 32
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "43d62e67ab0c667a3a474083db3b3ed8ff47ed9fbb17a779a9ac45a64e74677a",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_empathic_pain_R004_A001",
+      "retained_raw_messages": 1566,
+      "removed_visual_messages": 457,
+      "retained_feature_records": {
+        "audio": 32,
+        "tactile": 32
+      },
+      "removed_visual_features": 32,
+      "retained_payload_sha256": "f8af57430d71119799bb19b9d0c043820ebef49055a7c35d81c316ee50021e1d",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_empathic_pain_R005_A001",
+      "retained_raw_messages": 1581,
+      "removed_visual_messages": 453,
+      "retained_feature_records": {
+        "audio": 32,
+        "tactile": 32
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "524794daa2ce55385a203ee25a77bb15c343065c98e5326e8adbed25c7c794f1",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_entrancement_R001_A001",
+      "retained_raw_messages": 1572,
+      "removed_visual_messages": 473,
+      "retained_feature_records": {
+        "audio": 31,
+        "tactile": 32
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "c533203888a7419dc38a015efe7ec160eac6b8a95a0d2d20ce063e55961c2913",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_entrancement_R002_A001",
+      "retained_raw_messages": 1589,
+      "removed_visual_messages": 473,
+      "retained_feature_records": {
+        "tactile": 32,
+        "audio": 31
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "c3ed3945fe1fb00efc4a954ff0b3f5c33295f6af2e44517f388464957a652b44",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_entrancement_R003_A001",
+      "retained_raw_messages": 1580,
+      "removed_visual_messages": 471,
+      "retained_feature_records": {
+        "tactile": 32,
+        "audio": 33
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "8b4630d9aa4b34fa4f1dee7aa7b2810dcec6d26d89b8f7332783cee313edab7d",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_entrancement_R004_A001",
+      "retained_raw_messages": 1584,
+      "removed_visual_messages": 469,
+      "retained_feature_records": {
+        "tactile": 32,
+        "audio": 31
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "cbfff1add58e5c843ccd27a3ef7e9ec536e61acdf95f0bc7d696d93a3d50aec0",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_entrancement_R005_A001",
+      "retained_raw_messages": 1586,
+      "removed_visual_messages": 472,
+      "retained_feature_records": {
+        "tactile": 33,
+        "audio": 32
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "ff110b05b75e1520ba169a917b1996e60b1e316d091e8bd2c67c4a9dbcee6824",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_excitement_R001_A001",
+      "retained_raw_messages": 1186,
+      "removed_visual_messages": 352,
+      "retained_feature_records": {
+        "audio": 25,
+        "tactile": 24
+      },
+      "removed_visual_features": 23,
+      "retained_payload_sha256": "061f45549edf2997a80b7b42ff9a46c80be8d2d145d87ba77998bedac3196ec8",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_excitement_R002_A001",
+      "retained_raw_messages": 1186,
+      "removed_visual_messages": 355,
+      "retained_feature_records": {
+        "audio": 23,
+        "tactile": 24
+      },
+      "removed_visual_features": 24,
+      "retained_payload_sha256": "3420e3e1dc8e818d43e15579dee0d59af3e5181e4724b9f5fc123561ad80292e",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_excitement_R003_A001",
+      "retained_raw_messages": 1185,
+      "removed_visual_messages": 353,
+      "retained_feature_records": {
+        "audio": 25,
+        "tactile": 24
+      },
+      "removed_visual_features": 23,
+      "retained_payload_sha256": "5426899eff6e730b6699450928f1082cc3d65101d0d0c8a91df895b18ff6e429",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_excitement_R004_A001",
+      "retained_raw_messages": 1190,
+      "removed_visual_messages": 353,
+      "retained_feature_records": {
+        "tactile": 24,
+        "audio": 23
+      },
+      "removed_visual_features": 23,
+      "retained_payload_sha256": "ec7ab8100ceb60d02e1f0eb6abb3f784f72babc41868442434edc3c99365628d",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_excitement_R005_A001",
+      "retained_raw_messages": 1179,
+      "removed_visual_messages": 353,
+      "retained_feature_records": {
+        "tactile": 25,
+        "audio": 24
+      },
+      "removed_visual_features": 24,
+      "retained_payload_sha256": "50d4a92053aa40815ecaa4bc08a9027157580b0ac656e2a408edc94467368377",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_fear_R001_A001",
+      "retained_raw_messages": 1189,
+      "removed_visual_messages": 353,
+      "retained_feature_records": {
+        "tactile": 24,
+        "audio": 23
+      },
+      "removed_visual_features": 24,
+      "retained_payload_sha256": "d9cd40546231f20e1f4372059a28c2b1970f9879eec308b92c7e95f47e62294f",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_fear_R002_A001",
+      "retained_raw_messages": 1182,
+      "removed_visual_messages": 353,
+      "retained_feature_records": {
+        "audio": 25,
+        "tactile": 24
+      },
+      "removed_visual_features": 23,
+      "retained_payload_sha256": "b889c645c50b507962264d3d7c09b3fdfa06e4255536e2bc716e199cd03f017f",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_fear_R003_A001",
+      "retained_raw_messages": 1185,
+      "removed_visual_messages": 350,
+      "retained_feature_records": {
+        "tactile": 24,
+        "audio": 23
+      },
+      "removed_visual_features": 23,
+      "retained_payload_sha256": "ae88980245da92ca3c1e519146da90deb83ed4d2236b4df9ae85525f8794f490",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_fear_R004_A003",
+      "retained_raw_messages": 1184,
+      "removed_visual_messages": 352,
+      "retained_feature_records": {
+        "tactile": 24,
+        "audio": 23
+      },
+      "removed_visual_features": 23,
+      "retained_payload_sha256": "3403f67580a2fb81929f19327f90c65b02244595dbb263c01d7a3c04d92d4d55",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_fear_R005_A001",
+      "retained_raw_messages": 1186,
+      "removed_visual_messages": 353,
+      "retained_feature_records": {
+        "tactile": 24,
+        "audio": 23
+      },
+      "removed_visual_features": 23,
+      "retained_payload_sha256": "15f87bfe62d184c5f21bd9784d6be2ff8477b8a98eef0a72a537e754cb438711",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_horror_R001_A003",
+      "retained_raw_messages": 1581,
+      "removed_visual_messages": 473,
+      "retained_feature_records": {
+        "audio": 32,
+        "tactile": 32
+      },
+      "removed_visual_features": 32,
+      "retained_payload_sha256": "cd745e2088974b2c99688c253edb05801e658c7f63880a73bff05b9ad3a32bd4",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_horror_R002_A001",
+      "retained_raw_messages": 1591,
+      "removed_visual_messages": 477,
+      "retained_feature_records": {
+        "tactile": 32,
+        "audio": 31
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "936aff9352061935db9f326db9af13c1814921592511c294e57867c7be829bfa",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_horror_R003_A001",
+      "retained_raw_messages": 1559,
+      "removed_visual_messages": 466,
+      "retained_feature_records": {
+        "audio": 31,
+        "tactile": 31
+      },
+      "removed_visual_features": 32,
+      "retained_payload_sha256": "f63ceecf88b44f91de895a51a307b4a202e6775799610f6151e7dbd37dcb2f6b",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_horror_R004_A001",
+      "retained_raw_messages": 1584,
+      "removed_visual_messages": 475,
+      "retained_feature_records": {
+        "tactile": 32,
+        "audio": 32
+      },
+      "removed_visual_features": 32,
+      "retained_payload_sha256": "266d23c28f5f2bdc4233120b25faaccf2338e45e79648c8bc8b91b178204983c",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_horror_R005_A001",
+      "retained_raw_messages": 1588,
+      "removed_visual_messages": 474,
+      "retained_feature_records": {
+        "audio": 32,
+        "tactile": 32
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "462fb868ddcf576e2ff8f33707101e93185c7bf7a96ba5c1ad389b9f9d903306",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_interest_R001_A001",
+      "retained_raw_messages": 1562,
+      "removed_visual_messages": 429,
+      "retained_feature_records": {
+        "tactile": 33,
+        "audio": 31
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "8686e9ee32a027528fc5129ab96a16514750bab163cc4ea085c5d89299a77502",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_interest_R002_A001",
+      "retained_raw_messages": 1588,
+      "removed_visual_messages": 471,
+      "retained_feature_records": {
+        "tactile": 32,
+        "audio": 31
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "c10c2fdb3d33fbccb48c262dd3ff425910604fc9363e0faf94e7c8fdec790c4e",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_interest_R003_A001",
+      "retained_raw_messages": 1579,
+      "removed_visual_messages": 472,
+      "retained_feature_records": {
+        "tactile": 32,
+        "audio": 31
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "40cb22ae53e34454ce1cff0df43edc2eb4bdd4c2b23ef52b2512dedbbf0bafca",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_interest_R004_A001",
+      "retained_raw_messages": 1585,
+      "removed_visual_messages": 472,
+      "retained_feature_records": {
+        "audio": 32,
+        "tactile": 32
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "d4d4f024738fb68e86bd6792e816cfc72b69f6c4fc03a9d62fff0a86c8258b81",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_interest_R005_A001",
+      "retained_raw_messages": 1582,
+      "removed_visual_messages": 471,
+      "retained_feature_records": {
+        "audio": 32,
+        "tactile": 32
+      },
+      "removed_visual_features": 32,
+      "retained_payload_sha256": "430d43de2820ff51babf74d7d66e1d8a235e7aa7613b326456379f68cf886d4b",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_joy_R001_A003",
+      "retained_raw_messages": 1185,
+      "removed_visual_messages": 352,
+      "retained_feature_records": {
+        "audio": 24,
+        "tactile": 24
+      },
+      "removed_visual_features": 24,
+      "retained_payload_sha256": "47ae033cef2771ed850c64e7c04bc2c5fc703c330ddca526137370fee39bf9f2",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_joy_R002_A001",
+      "retained_raw_messages": 1186,
+      "removed_visual_messages": 353,
+      "retained_feature_records": {
+        "audio": 23,
+        "tactile": 24
+      },
+      "removed_visual_features": 24,
+      "retained_payload_sha256": "b6df3d4d9cffb0a709dd7071be8b53baad74a07999cacec951d61077106966a0",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_joy_R003_A001",
+      "retained_raw_messages": 1182,
+      "removed_visual_messages": 353,
+      "retained_feature_records": {
+        "audio": 23,
+        "tactile": 24
+      },
+      "removed_visual_features": 24,
+      "retained_payload_sha256": "fa2ec7b8ac2eb83a253673c0d891dc60e421dc4b2f20dbeed2604652cc6d6dbd",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_joy_R004_A001",
+      "retained_raw_messages": 1166,
+      "removed_visual_messages": 347,
+      "retained_feature_records": {
+        "tactile": 24,
+        "audio": 23
+      },
+      "removed_visual_features": 24,
+      "retained_payload_sha256": "ffe98c5f8bed76d9176f46ed6eec0208644b54f8cfa5170fe844affef4a7b446",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_joy_R005_A001",
+      "retained_raw_messages": 1185,
+      "removed_visual_messages": 354,
+      "retained_feature_records": {
+        "tactile": 24,
+        "audio": 24
+      },
+      "removed_visual_features": 24,
+      "retained_payload_sha256": "cf67ef7c765f2e1997c189cb022cee8d9f2d3d9c64f1d9650f9532677a0c997f",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_nostalgia_R001_A001",
+      "retained_raw_messages": 1578,
+      "removed_visual_messages": 474,
+      "retained_feature_records": {
+        "audio": 33,
+        "tactile": 32
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "8536e90d3ff1b0a05382eb001a3d7984f16822ab579d42c6b292f05c5b8710cc",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_nostalgia_R002_A001",
+      "retained_raw_messages": 1591,
+      "removed_visual_messages": 478,
+      "retained_feature_records": {
+        "tactile": 32,
+        "audio": 32
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "1b94b3fa1e7b71625926bdaa274dfc9728024fc28117f29c17482f5a094a834b",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_nostalgia_R003_A001",
+      "retained_raw_messages": 1592,
+      "removed_visual_messages": 475,
+      "retained_feature_records": {
+        "tactile": 33,
+        "audio": 33
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "bc70f7a65ee3d894415695cc9996cd0d112f5bdf4125fe1e1a5a5176778cdb3d",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_nostalgia_R004_A001",
+      "retained_raw_messages": 1575,
+      "removed_visual_messages": 463,
+      "retained_feature_records": {
+        "tactile": 32,
+        "audio": 31
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "8a3c2861340f942722d7e63aa5d9f74ee53c89b7d1917a1d37fcd6db9e9b65d5",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_nostalgia_R005_A001",
+      "retained_raw_messages": 1573,
+      "removed_visual_messages": 472,
+      "retained_feature_records": {
+        "audio": 32,
+        "tactile": 32
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "a428e1c6376d8a256b6c1022e41137bad9869b310c81bc72b5ee775da31ebf4b",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_relief_R001_A001",
+      "retained_raw_messages": 1185,
+      "removed_visual_messages": 355,
+      "retained_feature_records": {
+        "tactile": 24,
+        "audio": 24
+      },
+      "removed_visual_features": 24,
+      "retained_payload_sha256": "3760b8a773fdef57eb63270d9314e4f8765daf8631f782af89f2ac95c3e2bd7c",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_relief_R002_A001",
+      "retained_raw_messages": 1185,
+      "removed_visual_messages": 353,
+      "retained_feature_records": {
+        "tactile": 24,
+        "audio": 23
+      },
+      "removed_visual_features": 23,
+      "retained_payload_sha256": "f2f8a86d3663a0ff1a7953d29ea6df3dbe29a00aae0ee4b5d2fa719f18cd9058",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_relief_R003_A001",
+      "retained_raw_messages": 1176,
+      "removed_visual_messages": 350,
+      "retained_feature_records": {
+        "tactile": 25,
+        "audio": 25
+      },
+      "removed_visual_features": 23,
+      "retained_payload_sha256": "431f6ad90f427935695b48a7f9e4772fd703aaed4efbbad69fb34effd088348b",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_relief_R004_A001",
+      "retained_raw_messages": 1150,
+      "removed_visual_messages": 345,
+      "retained_feature_records": {
+        "audio": 24,
+        "tactile": 24
+      },
+      "removed_visual_features": 23,
+      "retained_payload_sha256": "ff14e8a4136ee3b3255314eee798d748c82a4661f11c1ec4939334789ced5a83",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_relief_R005_A001",
+      "retained_raw_messages": 1186,
+      "removed_visual_messages": 355,
+      "retained_feature_records": {
+        "tactile": 24,
+        "audio": 24
+      },
+      "removed_visual_features": 24,
+      "retained_payload_sha256": "7de3c725adb2db00d3e8cf54be46dd3a603d17afe0d9e2e718ebfd1a531cb1fc",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_romance_R001_A002",
+      "retained_raw_messages": 1577,
+      "removed_visual_messages": 471,
+      "retained_feature_records": {
+        "audio": 32,
+        "tactile": 32
+      },
+      "removed_visual_features": 32,
+      "retained_payload_sha256": "5c6bbc152f7ae3df186059c17e77c89f03771fea6ad6f83879d6e484733dc68d",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_romance_R002_A001",
+      "retained_raw_messages": 1581,
+      "removed_visual_messages": 475,
+      "retained_feature_records": {
+        "tactile": 32,
+        "audio": 31
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "19606902bbf0455d22f9b61a7be92d38b2f1502d7d33e794d074fbd8fc1e7e06",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_romance_R003_A001",
+      "retained_raw_messages": 1546,
+      "removed_visual_messages": 465,
+      "retained_feature_records": {
+        "audio": 32,
+        "tactile": 32
+      },
+      "removed_visual_features": 32,
+      "retained_payload_sha256": "c825ce79bfa029fbcda37a92026cbd338c6aa9819ccb861ace9bd75b07edb350",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_romance_R004_A001",
+      "retained_raw_messages": 1584,
+      "removed_visual_messages": 472,
+      "retained_feature_records": {
+        "tactile": 33,
+        "audio": 31
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "fba27a553f30e48cc00d4d1e1d1fd4a4c2e583f49435ddaceb1b1dd9d3cf4fbe",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_romance_R005_A001",
+      "retained_raw_messages": 1578,
+      "removed_visual_messages": 475,
+      "retained_feature_records": {
+        "tactile": 32,
+        "audio": 31
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "cbd2854f07e3c37717421c49459aa55b5f24a7ed70100d1e311104d6db1c40d0",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_sadness_R001_A001",
+      "retained_raw_messages": 1174,
+      "removed_visual_messages": 341,
+      "retained_feature_records": {
+        "tactile": 24,
+        "audio": 23
+      },
+      "removed_visual_features": 23,
+      "retained_payload_sha256": "79f5513863d41e2dfbcb9634efac19d0e449b7142f0289d027f42415af024b3d",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_sadness_R002_A001",
+      "retained_raw_messages": 1185,
+      "removed_visual_messages": 352,
+      "retained_feature_records": {
+        "tactile": 24,
+        "audio": 23
+      },
+      "removed_visual_features": 23,
+      "retained_payload_sha256": "f1f70f5656a74ab6f77dc627f30994a099a628e97350d2cee45e8cd7b517ae6e",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_sadness_R003_A001",
+      "retained_raw_messages": 1184,
+      "removed_visual_messages": 352,
+      "retained_feature_records": {
+        "audio": 24,
+        "tactile": 24
+      },
+      "removed_visual_features": 24,
+      "retained_payload_sha256": "dc48ae1609cf33eeb99c0ca4c6520699ee1ba7f2a70ddec50aea2829b4979c29",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_sadness_R004_A001",
+      "retained_raw_messages": 1184,
+      "removed_visual_messages": 350,
+      "retained_feature_records": {
+        "tactile": 24,
+        "audio": 24
+      },
+      "removed_visual_features": 24,
+      "retained_payload_sha256": "f81443728f59a42187020cc14ed329212acb676c735ceae4d750c08301e556a6",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_sadness_R005_A001",
+      "retained_raw_messages": 1188,
+      "removed_visual_messages": 354,
+      "retained_feature_records": {
+        "tactile": 24,
+        "audio": 23
+      },
+      "removed_visual_features": 23,
+      "retained_payload_sha256": "deba67cad834f92bff0842bbe05056a9d60f3a6bb7bded0c78ab59b7a92a16d1",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_satisfaction_R001_A001",
+      "retained_raw_messages": 1549,
+      "removed_visual_messages": 463,
+      "retained_feature_records": {
+        "tactile": 32,
+        "audio": 32
+      },
+      "removed_visual_features": 32,
+      "retained_payload_sha256": "ede95a93612431aff0c49dba40240c300dd2c27e8b8d408ea120b837047b8e0c",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_satisfaction_R002_A001",
+      "retained_raw_messages": 1586,
+      "removed_visual_messages": 472,
+      "retained_feature_records": {
+        "tactile": 32,
+        "audio": 32
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "e996e0ae3ecd8d7088424a4be43e5f337c320619d18419c0aa4fa201154f67bd",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_satisfaction_R003_A001",
+      "retained_raw_messages": 1582,
+      "removed_visual_messages": 470,
+      "retained_feature_records": {
+        "audio": 32,
+        "tactile": 32
+      },
+      "removed_visual_features": 32,
+      "retained_payload_sha256": "9870a990b102fa5a75327037e3b5cd9e2f0c43496076d9590eb12764f2d45fd6",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_satisfaction_R004_A002",
+      "retained_raw_messages": 1577,
+      "removed_visual_messages": 469,
+      "retained_feature_records": {
+        "audio": 32,
+        "tactile": 32
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "9cba6d777ef282d71b514d2400f1490ef92411d3a7e376bd5d0057eaf74c3455",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_satisfaction_R005_A001",
+      "retained_raw_messages": 1586,
+      "removed_visual_messages": 476,
+      "retained_feature_records": {
+        "tactile": 32,
+        "audio": 33
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "53ef1898fe1329a4af1d9683aff9481f041002e5451eff70eb45227d718c04ee",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_sexual_desire_R001_A001",
+      "retained_raw_messages": 1577,
+      "removed_visual_messages": 471,
+      "retained_feature_records": {
+        "tactile": 32,
+        "audio": 31
+      },
+      "removed_visual_features": 32,
+      "retained_payload_sha256": "132bc12499cf77f39f311ef423774b415f76b230dcc8aa34e929797e17fd75cf",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_sexual_desire_R002_A001",
+      "retained_raw_messages": 1588,
+      "removed_visual_messages": 474,
+      "retained_feature_records": {
+        "tactile": 32,
+        "audio": 31
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "4682a532f93d891b48e72253e0c7784d59d604020d96a89e620b92a1a89a0fda",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_sexual_desire_R003_A001",
+      "retained_raw_messages": 1592,
+      "removed_visual_messages": 474,
+      "retained_feature_records": {
+        "tactile": 32,
+        "audio": 31
+      },
+      "removed_visual_features": 31,
+      "retained_payload_sha256": "c698f7bae46eb07777e5ff4984ccd9d9559d908f43514b074578e8df30145ef4",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_sexual_desire_R004_A001",
+      "retained_raw_messages": 1581,
+      "removed_visual_messages": 474,
+      "retained_feature_records": {
+        "audio": 32,
+        "tactile": 32
+      },
+      "removed_visual_features": 32,
+      "retained_payload_sha256": "64e5c596c274e3247a005d97708ba78b2bd6a8a642ba4344581f0a401d5501f9",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_sexual_desire_R005_A001",
+      "retained_raw_messages": 1592,
+      "removed_visual_messages": 474,
+      "retained_feature_records": {
+        "tactile": 32,
+        "audio": 31
+      },
+      "removed_visual_features": 32,
+      "retained_payload_sha256": "fb23faa419b151760573c78a8e26e24dec720ae47fe7f0eede78bf36bd181855",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_surprise_R001_A001",
+      "retained_raw_messages": 1176,
+      "removed_visual_messages": 355,
+      "retained_feature_records": {
+        "tactile": 24,
+        "audio": 23
+      },
+      "removed_visual_features": 24,
+      "retained_payload_sha256": "5ba6706af106bc40e66b24ae0e15928d921330830ce44e92a10da5a031d580e4",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_surprise_R002_A001",
+      "retained_raw_messages": 1188,
+      "removed_visual_messages": 354,
+      "retained_feature_records": {
+        "audio": 24,
+        "tactile": 24
+      },
+      "removed_visual_features": 24,
+      "retained_payload_sha256": "2582d6d70557e12abe3647820f59b531609b53c4cce4c46cfa0b53ef5dcd70bf",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_surprise_R003_A001",
+      "retained_raw_messages": 1179,
+      "removed_visual_messages": 350,
+      "retained_feature_records": {
+        "audio": 24,
+        "tactile": 24
+      },
+      "removed_visual_features": 23,
+      "retained_payload_sha256": "c0b82102e83764f5ad2e8b292d227c2aecf70a3e1e7414655d7dada0ea3d5117",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_surprise_R004_A001",
+      "retained_raw_messages": 1163,
+      "removed_visual_messages": 346,
+      "retained_feature_records": {
+        "audio": 23,
+        "tactile": 24
+      },
+      "removed_visual_features": 24,
+      "retained_payload_sha256": "3b74ea0a74bf1cbb350ad92d25ed106b7eb31a060e87bdae3fd6bfb70747ee1d",
+      "verification": "PASS"
+    },
+    {
+      "trial": "S01_D01_surprise_R005_A001",
+      "retained_raw_messages": 1188,
+      "removed_visual_messages": 356,
+      "retained_feature_records": {
+        "audio": 25,
+        "tactile": 24
+      },
+      "removed_visual_features": 24,
+      "retained_payload_sha256": "8548f0b659d6b4fd41c2c09b0ee56ba205a3e77a75d966258026cd83216c74ef",
+      "verification": "PASS"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "trial_id": "S01_D01_admiration_R002_A001",
+  "subject_id": "S01",
+  "session_id": "D01",
+  "label": "admiration",
+  "label_source": "video_induction_target",
+  "video_id": "13",
+  "script_id": "admiration_guided_v1",
+  "interaction_start": 1792656799.3533375,
+  "interaction_end": 1792656815.4301925,
+  "synthetic": false,
+  "complete": true,
+  "raw_only": false,
+  "guided_repeat": 2,
+  "review_status": "accepted",
+  "collection_mode": "controlled_prompt_v1",
+  "action_start": 1792656804.3533375,
+  "action_end": 1792656814.3533375,
+  "feature_counts": {
+    "audio": 33,
+    "tactile": 32
+  },
+  "release_info": {
+    "included_modalities": [
+      "audio",
+      "tactile"
+    ],
+    "vision_removed_at_release": true,
+    "original_collection_modalities": [
+      "vision",
+      "audio",
+      "tactile"
+    ],
+    "timestamps": "Original timestamps retained; not anonymised.",
+    "note": "complete/review_status describe the original collected trial. video_id identifies the induction stimulus, not participant video."
+  }
+}

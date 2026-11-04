@@ -1,0 +1,37 @@
+{
+  "trial_id": "S01_D01_fear_R002_A001",
+  "subject_id": "S01",
+  "session_id": "D01",
+  "label": "fear",
+  "label_source": "video_induction_target",
+  "video_id": "5",
+  "script_id": "fear_guided_v1",
+  "interaction_start": 1792653299.9228814,
+  "interaction_end": 1792653312.006712,
+  "synthetic": false,
+  "complete": true,
+  "raw_only": false,
+  "guided_repeat": 2,
+  "review_status": "accepted",
+  "collection_mode": "controlled_prompt_v1",
+  "action_start": 1792653304.9228814,
+  "action_end": 1792653310.9228814,
+  "feature_counts": {
+    "audio": 25,
+    "tactile": 24
+  },
+  "release_info": {
+    "included_modalities": [
+      "audio",
+      "tactile"
+    ],
+    "vision_removed_at_release": true,
+    "original_collection_modalities": [
+      "vision",
+      "audio",
+      "tactile"
+    ],
+    "timestamps": "Original timestamps retained; not anonymised.",
+    "note": "complete/review_status describe the original collected trial. video_id identifies the induction stimulus, not participant video."
+  }
+}

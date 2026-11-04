@@ -1,0 +1,37 @@
+{
+  "trial_id": "S01_D01_nostalgia_R003_A001",
+  "subject_id": "S01",
+  "session_id": "D01",
+  "label": "nostalgia",
+  "label_source": "video_induction_target",
+  "video_id": "22",
+  "script_id": "nostalgia_guided_v1",
+  "interaction_start": 1792658572.0345185,
+  "interaction_end": 1792658588.1997845,
+  "synthetic": false,
+  "complete": true,
+  "raw_only": false,
+  "guided_repeat": 3,
+  "review_status": "accepted",
+  "collection_mode": "controlled_prompt_v1",
+  "action_start": 1792658577.0345185,
+  "action_end": 1792658587.0345185,
+  "feature_counts": {
+    "tactile": 33,
+    "audio": 33
+  },
+  "release_info": {
+    "included_modalities": [
+      "audio",
+      "tactile"
+    ],
+    "vision_removed_at_release": true,
+    "original_collection_modalities": [
+      "vision",
+      "audio",
+      "tactile"
+    ],
+    "timestamps": "Original timestamps retained; not anonymised.",
+    "note": "complete/review_status describe the original collected trial. video_id identifies the induction stimulus, not participant video."
+  }
+}

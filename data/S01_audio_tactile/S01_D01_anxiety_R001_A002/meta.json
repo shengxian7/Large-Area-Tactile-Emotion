@@ -1,0 +1,37 @@
+{
+  "trial_id": "S01_D01_anxiety_R001_A002",
+  "subject_id": "S01",
+  "session_id": "D01",
+  "label": "anxiety",
+  "label_source": "video_induction_target",
+  "video_id": "25",
+  "script_id": "anxiety_guided_v1",
+  "interaction_start": 1792659258.1408267,
+  "interaction_end": 1792659274.2408438,
+  "synthetic": false,
+  "complete": true,
+  "raw_only": false,
+  "guided_repeat": 1,
+  "review_status": "accepted",
+  "collection_mode": "controlled_prompt_v1",
+  "action_start": 1792659263.1408267,
+  "action_end": 1792659273.1408267,
+  "feature_counts": {
+    "audio": 32,
+    "tactile": 32
+  },
+  "release_info": {
+    "included_modalities": [
+      "audio",
+      "tactile"
+    ],
+    "vision_removed_at_release": true,
+    "original_collection_modalities": [
+      "vision",
+      "audio",
+      "tactile"
+    ],
+    "timestamps": "Original timestamps retained; not anonymised.",
+    "note": "complete/review_status describe the original collected trial. video_id identifies the induction stimulus, not participant video."
+  }
+}

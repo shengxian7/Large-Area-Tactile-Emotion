@@ -1,0 +1,37 @@
+{
+  "trial_id": "S01_D01_awe_R003_A001",
+  "subject_id": "S01",
+  "session_id": "D01",
+  "label": "awe",
+  "label_source": "video_induction_target",
+  "video_id": "17",
+  "script_id": "awe_guided_v1",
+  "interaction_start": 1792657548.898418,
+  "interaction_end": 1792657564.961308,
+  "synthetic": false,
+  "complete": true,
+  "raw_only": false,
+  "guided_repeat": 3,
+  "review_status": "accepted",
+  "collection_mode": "controlled_prompt_v1",
+  "action_start": 1792657553.898418,
+  "action_end": 1792657563.898418,
+  "feature_counts": {
+    "audio": 32,
+    "tactile": 32
+  },
+  "release_info": {
+    "included_modalities": [
+      "audio",
+      "tactile"
+    ],
+    "vision_removed_at_release": true,
+    "original_collection_modalities": [
+      "vision",
+      "audio",
+      "tactile"
+    ],
+    "timestamps": "Original timestamps retained; not anonymised.",
+    "note": "complete/review_status describe the original collected trial. video_id identifies the induction stimulus, not participant video."
+  }
+}

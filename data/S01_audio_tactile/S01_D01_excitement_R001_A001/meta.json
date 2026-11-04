@@ -1,0 +1,37 @@
+{
+  "trial_id": "S01_D01_excitement_R001_A001",
+  "subject_id": "S01",
+  "session_id": "D01",
+  "label": "excitement",
+  "label_source": "video_induction_target",
+  "video_id": "7",
+  "script_id": "excitement_guided_v1",
+  "interaction_start": 1792654086.0618007,
+  "interaction_end": 1792654098.2008138,
+  "synthetic": false,
+  "complete": true,
+  "raw_only": false,
+  "guided_repeat": 1,
+  "review_status": "accepted",
+  "collection_mode": "controlled_prompt_v1",
+  "action_start": 1792654091.0618007,
+  "action_end": 1792654097.0618007,
+  "feature_counts": {
+    "audio": 25,
+    "tactile": 24
+  },
+  "release_info": {
+    "included_modalities": [
+      "audio",
+      "tactile"
+    ],
+    "vision_removed_at_release": true,
+    "original_collection_modalities": [
+      "vision",
+      "audio",
+      "tactile"
+    ],
+    "timestamps": "Original timestamps retained; not anonymised.",
+    "note": "complete/review_status describe the original collected trial. video_id identifies the induction stimulus, not participant video."
+  }
+}

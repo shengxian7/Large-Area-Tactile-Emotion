@@ -1,0 +1,37 @@
+{
+  "trial_id": "S01_D01_boredom_R004_A001",
+  "subject_id": "S01",
+  "session_id": "D01",
+  "label": "boredom",
+  "label_source": "video_induction_target",
+  "video_id": "9",
+  "script_id": "boredom_guided_v1",
+  "interaction_start": 1792654384.4968464,
+  "interaction_end": 1792654396.598246,
+  "synthetic": false,
+  "complete": true,
+  "raw_only": false,
+  "guided_repeat": 4,
+  "review_status": "accepted",
+  "collection_mode": "controlled_prompt_v1",
+  "action_start": 1792654389.4968464,
+  "action_end": 1792654395.4968464,
+  "feature_counts": {
+    "tactile": 25,
+    "audio": 24
+  },
+  "release_info": {
+    "included_modalities": [
+      "audio",
+      "tactile"
+    ],
+    "vision_removed_at_release": true,
+    "original_collection_modalities": [
+      "vision",
+      "audio",
+      "tactile"
+    ],
+    "timestamps": "Original timestamps retained; not anonymised.",
+    "note": "complete/review_status describe the original collected trial. video_id identifies the induction stimulus, not participant video."
+  }
+}

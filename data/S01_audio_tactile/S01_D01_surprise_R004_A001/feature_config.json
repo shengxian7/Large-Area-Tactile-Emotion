@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "labels": [
+    "admiration",
+    "adoration",
+    "aesthetic_appreciation",
+    "amusement",
+    "anger",
+    "anxiety",
+    "awe",
+    "awkwardness",
+    "boredom",
+    "calmness",
+    "confusion",
+    "craving",
+    "disgust",
+    "empathic_pain",
+    "entrancement",
+    "excitement",
+    "fear",
+    "horror",
+    "interest",
+    "joy",
+    "nostalgia",
+    "relief",
+    "romance",
+    "sadness",
+    "satisfaction",
+    "sexual_desire",
+    "surprise"
+  ],
+  "modalities": [
+    "audio",
+    "tactile"
+  ],
+  "feature_dims": {
+    "audio": 768,
+    "tactile": 96
+  },
+  "encoder_ids": {
+    "audio": "audio:iic/emotion2vec_plus_base:dc8b713724b1ea1374246595dd3a1b688bf8f4e31173ed2f72b3b6f914a652b6:a57bd79ccb46996731d22f8d4cd1b53261dca976e7965717fb911b8d6849ce75:utterance_proj_input:pcm16k:v1:window5.000s:rms0",
+    "tactile": "tactile:b5c2c95f63ea3a63eb8efb07039898176e751f0207888b1682fc970833ece302:9b7178da816f2c9af25d8779b371e0b2ccd85492497306e6e403ddf98e1db3a4:8082fdb71757a84b2bf0cee123aba75b81cb4cc5f72f88934f1ba1076e8790bd:head.2_input:v1"
+  },
+  "step_s": 0.5,
+  "max_age_s": {
+    "audio": 1.5,
+    "tactile": 1.0
+  },
+  "hidden_dim": 128,
+  "heads": 4,
+  "dropout": 0.1,
+  "modality_dropout": 0.2,
+  "idle_reset_s": 10.0,
+  "confidence_threshold": 0.8,
+  "stable_steps": 3,
+  "cooldown_s": 5.0,
+  "seed": 42
+}

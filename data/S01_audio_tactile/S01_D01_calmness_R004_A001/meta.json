@@ -1,0 +1,37 @@
+{
+  "trial_id": "S01_D01_calmness_R004_A001",
+  "subject_id": "S01",
+  "session_id": "D01",
+  "label": "calmness",
+  "label_source": "video_induction_target",
+  "video_id": "8",
+  "script_id": "calmness_guided_v1",
+  "interaction_start": 1792654259.5445995,
+  "interaction_end": 1792654271.7017202,
+  "synthetic": false,
+  "complete": true,
+  "raw_only": false,
+  "guided_repeat": 4,
+  "review_status": "accepted",
+  "collection_mode": "controlled_prompt_v1",
+  "action_start": 1792654264.5445995,
+  "action_end": 1792654270.5445995,
+  "feature_counts": {
+    "audio": 25,
+    "tactile": 24
+  },
+  "release_info": {
+    "included_modalities": [
+      "audio",
+      "tactile"
+    ],
+    "vision_removed_at_release": true,
+    "original_collection_modalities": [
+      "vision",
+      "audio",
+      "tactile"
+    ],
+    "timestamps": "Original timestamps retained; not anonymised.",
+    "note": "complete/review_status describe the original collected trial. video_id identifies the induction stimulus, not participant video."
+  }
+}

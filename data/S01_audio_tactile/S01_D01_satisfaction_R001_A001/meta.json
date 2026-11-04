@@ -1,0 +1,37 @@
+{
+  "trial_id": "S01_D01_satisfaction_R001_A001",
+  "subject_id": "S01",
+  "session_id": "D01",
+  "label": "satisfaction",
+  "label_source": "video_induction_target",
+  "video_id": "20",
+  "script_id": "satisfaction_guided_v1",
+  "interaction_start": 1792658166.4881344,
+  "interaction_end": 1792658182.5580583,
+  "synthetic": false,
+  "complete": true,
+  "raw_only": false,
+  "guided_repeat": 1,
+  "review_status": "accepted",
+  "collection_mode": "controlled_prompt_v1",
+  "action_start": 1792658171.4881344,
+  "action_end": 1792658181.4881344,
+  "feature_counts": {
+    "tactile": 32,
+    "audio": 32
+  },
+  "release_info": {
+    "included_modalities": [
+      "audio",
+      "tactile"
+    ],
+    "vision_removed_at_release": true,
+    "original_collection_modalities": [
+      "vision",
+      "audio",
+      "tactile"
+    ],
+    "timestamps": "Original timestamps retained; not anonymised.",
+    "note": "complete/review_status describe the original collected trial. video_id identifies the induction stimulus, not participant video."
+  }
+}

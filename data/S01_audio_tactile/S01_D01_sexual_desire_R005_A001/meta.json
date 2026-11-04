@@ -1,0 +1,37 @@
+{
+  "trial_id": "S01_D01_sexual_desire_R005_A001",
+  "subject_id": "S01",
+  "session_id": "D01",
+  "label": "sexual_desire",
+  "label_source": "video_induction_target",
+  "video_id": "27",
+  "script_id": "sexual_desire_guided_v1",
+  "interaction_start": 1792659746.384843,
+  "interaction_end": 1792659762.5337803,
+  "synthetic": false,
+  "complete": true,
+  "raw_only": false,
+  "guided_repeat": 5,
+  "review_status": "accepted",
+  "collection_mode": "controlled_prompt_v1",
+  "action_start": 1792659751.384843,
+  "action_end": 1792659761.384843,
+  "feature_counts": {
+    "tactile": 32,
+    "audio": 31
+  },
+  "release_info": {
+    "included_modalities": [
+      "audio",
+      "tactile"
+    ],
+    "vision_removed_at_release": true,
+    "original_collection_modalities": [
+      "vision",
+      "audio",
+      "tactile"
+    ],
+    "timestamps": "Original timestamps retained; not anonymised.",
+    "note": "complete/review_status describe the original collected trial. video_id identifies the induction stimulus, not participant video."
+  }
+}

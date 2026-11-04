@@ -1,0 +1,37 @@
+{
+  "trial_id": "S01_D01_awkwardness_R003_A001",
+  "subject_id": "S01",
+  "session_id": "D01",
+  "label": "awkwardness",
+  "label_source": "video_induction_target",
+  "video_id": "18",
+  "script_id": "awkwardness_guided_v1",
+  "interaction_start": 1792657925.0365906,
+  "interaction_end": 1792657941.0977128,
+  "synthetic": false,
+  "complete": true,
+  "raw_only": false,
+  "guided_repeat": 3,
+  "review_status": "accepted",
+  "collection_mode": "controlled_prompt_v1",
+  "action_start": 1792657930.0365906,
+  "action_end": 1792657940.0365906,
+  "feature_counts": {
+    "audio": 31,
+    "tactile": 32
+  },
+  "release_info": {
+    "included_modalities": [
+      "audio",
+      "tactile"
+    ],
+    "vision_removed_at_release": true,
+    "original_collection_modalities": [
+      "vision",
+      "audio",
+      "tactile"
+    ],
+    "timestamps": "Original timestamps retained; not anonymised.",
+    "note": "complete/review_status describe the original collected trial. video_id identifies the induction stimulus, not participant video."
+  }
+}
